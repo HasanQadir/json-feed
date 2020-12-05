@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JSON-Feed</string>
+    <string name="internet_not_available">No internet connection. Close the Application, open Settings and reconnect to a cellular or wifi connection</string>
 </resources>
